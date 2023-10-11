@@ -1,0 +1,8 @@
+{
+  "prompts": [
+    {
+      "name": "company-name",
+      "prompt": "What is a good name for a company that makes {product}?"
+    }
+  ]
+}
